@@ -1,5 +1,19 @@
-![Alt text](![image](https://github.com/mangaters12/inventoryci4/assets/89984784/8cc079f6-b304-4797-b9b0-f4a8ea205e46)
-?raw=true "Optional Title")
+1. Login
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/259f9d32-6457-4f6f-8fe7-5df1e3693931)
+2. Register
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/20bfa954-6f37-4598-b56e-d708cc326ad6)
+3. Home Materials
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/be0bf7df-2c83-469e-82af-39a875ea5c9b)
+4. Orders
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/8e0c0d01-91db-48b1-a570-07640a3ba418)
+5. Data Customers
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/a1e672ad-8dee-42b2-868b-7e4c7a00b924)
+6. Invoice
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/6b025e6e-ae2b-45f1-be05-a803e09d18f7)
+7. Invoice Downloads Views
+   ![image](https://github.com/mangaters12/inventoryci4/assets/89984784/1a6c5f6c-b96e-4844-9023-2fa018d0df84)
+
+
 
 
 

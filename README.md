@@ -1,3 +1,10 @@
+![Alt text](![image](https://github.com/mangaters12/inventoryci4/assets/89984784/8cc079f6-b304-4797-b9b0-f4a8ea205e46)
+?raw=true "Optional Title")
+
+
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?

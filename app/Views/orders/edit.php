@@ -65,10 +65,10 @@
     <div class="sidebar">
         <h2>Sidebar</h2>
         <ul>
-            <li><a href="/">List Stok</a></li>
+            <li><a href="/materials">List Stok</a></li>
             <li><a href="/orders">Pesanan Customer</a></li>
             <li><a href="/customers">Data Customer</a></li>
-            <li><a href="/">Log Out</a></li>
+            <li><a href="/logout">Log Out</a></li>
         </ul>
     </div>
 
